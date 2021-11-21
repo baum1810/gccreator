@@ -11,6 +11,6 @@ needed pips:
 - requests
 - threading
 
-also probs to 7nr for helping me
+also probs to @https://github.com/7nr for helping me
 
 
